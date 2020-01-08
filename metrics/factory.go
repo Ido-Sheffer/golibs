@@ -15,7 +15,7 @@
 package metrics
 
 import (
-	"github.com/liornabat/golibs/cache"
+	"github.com/Ido-Sheffer/golibs/cache"
 )
 
 // Factory creates new metrics

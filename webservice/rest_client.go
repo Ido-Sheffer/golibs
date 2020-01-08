@@ -3,11 +3,11 @@ package webservice
 import (
 	"context"
 	"fmt"
-	"github.com/liornabat/golibs/instrument"
-	"github.com/liornabat/golibs/logging"
+	"github.com/Ido-Sheffer/golibs/instrument"
+	"github.com/Ido-Sheffer/golibs/logging"
 	"time"
 
-	"github.com/liornabat/golibs/tracing"
+	"github.com/Ido-Sheffer/golibs/tracing"
 	"gopkg.in/resty.v1"
 )
 

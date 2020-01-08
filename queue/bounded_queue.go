@@ -19,7 +19,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/liornabat/golibs/metrics"
+	"github.com/Ido-Sheffer/golibs/metrics"
 )
 
 // BoundedQueue implements a producer-consumer exchange similar to a ring buffer queue,

@@ -3,7 +3,7 @@ package tracing
 import (
 	"time"
 
-	c "github.com/liornabat/golibs/cache"
+	c "github.com/Ido-Sheffer/golibs/cache"
 )
 
 type spanCache struct {

@@ -3,12 +3,12 @@ package main
 import (
 	"fmt"
 
-	ws "github.com/liornabat/golibs/webservice"
+	ws "github.com/Ido-Sheffer/golibs/webservice"
 
-	"github.com/appleboy/gin-jwt"
-	"github.com/gin-gonic/gin"
 	"runtime"
 
+	jwt "github.com/appleboy/gin-jwt"
+	"github.com/gin-gonic/gin"
 )
 
 func helloHandler(c *gin.Context) {
